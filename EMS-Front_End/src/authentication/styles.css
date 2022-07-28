@@ -1,0 +1,19 @@
+body {
+    /* font-family: sans-serif;
+     */
+    /* background-image: url("../logo/SUSTVMSLogo_Front.png"); */
+    /* background-size: 30%; */
+  }
+
+
+.buttonPair{ 
+  text-align: center;
+  margin: 15%; 
+  position:relative;
+  justify-content: space-around;
+  display: flex;
+}
+
+.button{
+  height: 101;
+}

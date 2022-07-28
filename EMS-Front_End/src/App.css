@@ -1,0 +1,28 @@
+body,html {
+  /* height: 100%; */
+  margin: 0;
+}
+
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+.react-stopwatch-timer__element {
+  width: 3px !important;
+  height: 3px !important;
+  border-radius: 5px;
+  background-color:red;
+}
+
+.react-stopwatch-timer__table{
+  width: 200px !important;
+  height: 120px !important;
+  background-color:#F3F4ED;
+  border-radius: 5%;
+  left: 17%;
+ 
+}
+.h1_{
+  font-family: 'Big Shoulders Stencil Display', cursive;
+
+}

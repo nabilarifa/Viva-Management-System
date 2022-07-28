@@ -1,0 +1,20 @@
+
+  
+  /* .root {
+    background-color: #e42929;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .card {
+    flex: 1;
+  } */
+
+
+  .root{
+    background-color: brown;
+    height: 800;
+    width: 200;
+  }
+
+  
